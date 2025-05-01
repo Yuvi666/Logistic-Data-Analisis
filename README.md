@@ -1,4 +1,4 @@
-# Logistic-Data-Analisis
+# Logistic-Data-Analysis
 
 ## Problem Understanding
 
